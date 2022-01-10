@@ -1,0 +1,26 @@
+{
+  "name": "@fancn21th/mimic",
+  "version": "0.0.0-semantically-release",
+  "description": "an enterprise level frontend toolkit library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Successful: no test specified\" && exit 0",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fancn21th/mimic.git"
+  },
+  "keywords": [
+    "toolkit"
+  ],
+  "author": "fancn21th <fancn21th@aliyun.com> (http://fancn21th.cn/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fancn21th/mimic/issues"
+  },
+  "homepage": "https://github.com/fancn21th/mimic#readme",
+  "devDependencies": {
+    "semantic-release": "18.0.1"
+  }
+}
