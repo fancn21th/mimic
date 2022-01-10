@@ -1,6 +1,6 @@
 {
   "name": "@fancn21th/mimic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "an enterprise level frontend toolkit library",
   "main": "src/index.js",
   "scripts": {
@@ -22,5 +22,10 @@
   "homepage": "https://github.com/fancn21th/mimic#readme",
   "devDependencies": {
     "semantic-release": "18.0.1"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
   }
 }
