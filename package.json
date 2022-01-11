@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "commit": "git-cz",
-    "test": "echo \"Successful: no test specified\" && exit 0",
+    "test": "mocha test/**",
     "semantic-release": "semantic-release"
   },
   "repository": {
