@@ -1,7 +1,8 @@
 var expect = require("chai").expect;
+var lib = require("../src");
 
-describe("hello test", function () {
+describe("helloMimic test", function () {
   it("works!", function () {
-    expect(true).to.be.true;
+    expect(lib.helloMimic()).to.be.string("hello mimic!");
   });
 });
