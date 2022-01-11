@@ -4,6 +4,7 @@
   "description": "an enterprise level frontend toolkit library",
   "main": "src/index.js",
   "scripts": {
+    "commit": "git-cz",
     "test": "echo \"Successful: no test specified\" && exit 0",
     "semantic-release": "semantic-release"
   },
@@ -21,11 +22,18 @@
   },
   "homepage": "https://github.com/fancn21th/mimic#readme",
   "devDependencies": {
+    "commitizen": "4.2.4",
+    "cz-conventional-changelog": "3.3.0",
     "semantic-release": "18.0.1"
   },
   "release": {
     "branches": [
       "main"
     ]
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
