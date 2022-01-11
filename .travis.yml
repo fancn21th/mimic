@@ -16,5 +16,6 @@ before_script:
   - npm prune
 script:
   - npm run test
+  - npm run check-coverage
 after_success:
   - npm run semantic-release

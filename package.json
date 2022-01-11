@@ -7,6 +7,7 @@
     "commit": "git-cz",
     "test": "nyc mocha test/**",
     "cover": "codecov",
+    "check-coverage": "nyc check-coverage",
     "semantic-release": "semantic-release"
   },
   "repository": {
@@ -39,7 +40,7 @@
   },
   "config": {
     "ghooks": {
-      "pre-commit": "npm t"
+      "pre-commit": "npm t && npm run check-coverage"
     },
     "commitizen": {
       "path": "cz-conventional-changelog"

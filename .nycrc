@@ -9,5 +9,10 @@
   "reporter": [
     "text",
     "lcov"
-  ]
+  ],
+  "check-coverage": true,
+  "branches": 100,
+  "function": 100,
+  "lines": 100,
+  "statements": 100
 }
