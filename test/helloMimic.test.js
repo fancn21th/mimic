@@ -1,8 +1,10 @@
-var expect = require("chai").expect;
-var lib = require("../src");
+// var expect = require("chai").expect;
+// var lib = require("../src");
+import { expect } from "chai";
+import { helloMimic } from "../src";
 
 describe("helloMimic test", function () {
   it("works!", function () {
-    expect(lib.helloMimic()).to.be.string("hello mimic!");
+    expect(helloMimic()).to.be.string("hello mimic!");
   });
 });

@@ -2,13 +2,16 @@
   "name": "@fancn21th/mimic",
   "version": "0.0.0-semantically-released",
   "description": "an enterprise level frontend toolkit library",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "commit": "git-cz",
-    "test": "nyc mocha test/**",
+    "watch:test": "npm t -- -w",
+    "test": "nyc mocha test/** --require babel-core/register",
     "report-coverage": "codecov",
     "check-coverage": "nyc check-coverage",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "prebuild": "rimraf dist",
+    "build": "babel --copy-files src/ -d dist/"
   },
   "repository": {
     "type": "git",
@@ -24,6 +27,10 @@
   },
   "homepage": "https://github.com/fancn21th/mimic#readme",
   "devDependencies": {
+    "babel-cli": "6.26.0",
+    "babel-core": "6.26.3",
+    "babel-preset-es2015": "6.24.1",
+    "babel-preset-stage-2": "6.24.1",
     "chai": "4.3.4",
     "codecov": "3.8.3",
     "commitizen": "4.2.4",
@@ -31,6 +38,7 @@
     "ghooks": "2.0.4",
     "mocha": "9.1.3",
     "nyc": "15.1.0",
+    "rimraf": "3.0.2",
     "semantic-release": "18.0.1"
   },
   "release": {
@@ -45,5 +53,15 @@
     "commitizen": {
       "path": "cz-conventional-changelog"
     }
-  }
+  },
+  "babel": {
+    "presets": [
+      "es2015",
+      "stage-2"
+    ]
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ]
 }
