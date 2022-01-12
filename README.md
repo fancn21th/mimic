@@ -4,6 +4,11 @@
 
 一个企业级前端工具库
 
+[![CI status][travis-build]][travis-build-link]
+
+[travis-build]: https://img.shields.io/travis/fancn21th/mimic?style=flat-square
+[travis-build-link]: https://app.travis-ci.com/github/fancn21th/mimic/builds
+
 </div>
 
 ## ✨ 功能清单
