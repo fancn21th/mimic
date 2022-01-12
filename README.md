@@ -5,9 +5,15 @@
 一个企业级前端工具库
 
 [![CI status][travis-build]][travis-build-link]
+[![Code Coverage][codecov]][codecov-link]
+[![Downloads][downloads]][codecov-link]
 
 [travis-build]: https://img.shields.io/travis/fancn21th/mimic?style=flat-square
 [travis-build-link]: https://app.travis-ci.com/github/fancn21th/mimic/builds
+[codecov]: https://img.shields.io/codecov/c/github/fancn21th/mimic/main?style=flat-square
+[codecov-link]: https://codecov.io/gh/fancn21th/mimic/branch/main
+[downloads]: https://img.shields.io/npm/dm/@fancn21th/mimic?style=flat-square
+[downloads-link]: http://npm.im/fancn21th/mimic
 
 </div>
 
