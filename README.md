@@ -13,7 +13,7 @@
 [codecov]: https://img.shields.io/codecov/c/github/fancn21th/mimic/main?style=flat-square
 [codecov-link]: https://codecov.io/gh/fancn21th/mimic/branch/main
 [downloads]: https://img.shields.io/npm/dm/@fancn21th/mimic?style=flat-square
-[downloads-link]: http://npm.im/fancn21th/mimic
+[downloads-link]: http://npm.im/@fancn21th/mimic
 
 </div>
 
