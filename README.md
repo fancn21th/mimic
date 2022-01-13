@@ -7,6 +7,7 @@
 [![CI status][travis-build]][travis-build-link]
 [![Code Coverage][codecov]][codecov-link]
 [![Downloads][downloads]][downloads-link]
+[![Version][versions]][versions-link]
 
 [travis-build]: https://img.shields.io/travis/fancn21th/mimic?style=flat-square
 [travis-build-link]: https://app.travis-ci.com/github/fancn21th/mimic/builds
@@ -14,6 +15,8 @@
 [codecov-link]: https://codecov.io/gh/fancn21th/mimic/branch/main
 [downloads]: https://img.shields.io/npm/dm/@fancn21th/mimic?style=flat-square
 [downloads-link]: https://www.npmjs.com/package/@fancn21th/mimic
+[versions]: https://img.shields.io/npm/v/@fancn21th/mimic?style=flat-square
+[versions-link]: https://www.npmjs.com/package/@fancn21th/mimic
 
 </div>
 
