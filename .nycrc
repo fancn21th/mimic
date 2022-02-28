@@ -12,7 +12,7 @@
   ],
   "check-coverage": true,
   "branches": 75,
-  "function": 75,
-  "lines": 75,
-  "statements": 75
+  "function": 100,
+  "lines": 100,
+  "statements": 100
 }
