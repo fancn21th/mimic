@@ -95,7 +95,11 @@ mimic 团队会关注所有的 pull request，我们会 review 以及合并你�
 
 请大家提 issue 的时候特别注意 issue 的语法格式 。重要的是，你提 issue 的时候注意语言表达，尽量用关键字来表达 issue 内容，要让大家明白你提的 issue 是什么。
 
-issue 语言：无限制
+为议题提供一个描述性标题。 标题应一目了然地传达议题的内容。
+
+添加解释问题目的之说明，包括任何可能有助于解决问题的详细信息。 例如，如果这是漏洞报告，请描述重现漏洞的步骤、预期结果和实际结果。
+
+您可以使用 Markdown 添加格式、链接、表情等内容。 更多信息请参阅“[在 GitHub 上编写](https://docs.github.com/cn/get-started/writing-on-github)”。
 
 issue [快速入门](https://docs.github.com/cn/issues/tracking-your-work-with-issues/quickstart)
 
