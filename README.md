@@ -7,7 +7,9 @@
 [![CI status][travis-build]][travis-build-link]
 [![Code Coverage][codecov]][codecov-link]
 [![Downloads][downloads]][downloads-link]
+
 [![Version][versions]][versions-link]
+
 [![NPM][license]][license-link]
 
 [travis-build]: https://img.shields.io/travis/fancn21th/mimic?style=flat-square
