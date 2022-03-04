@@ -93,7 +93,7 @@ mimic 团队会关注所有的 pull request，我们会 review 以及合并你�
 
 所有对一个项目贡献的想法都是从一个 issue 开始。
 
-    要点：
+要点：
 
 - 请大家提 issue 的时候特别注意 issue 的语法格式 。重要的是，你提 issue 的时候注意语言表达，尽量用关键字来表达 issue 内容，要让大家明白你提的 issue 是什么。
 
