@@ -152,4 +152,4 @@ git push origin <topic-branch-name>
 
 [commit](https://www.conventionalcommits.org/zh-hans/v1.0.0/#%e7%ba%a6%e5%ae%9a%e5%bc%8f%e6%8f%90%e4%ba%a4%e8%a7%84%e8%8c%83) 的时候也要注意提交规范：commit 也是很重要的一个步骤，而且 修改 BUG 、新需求 等的 commit 前缀都是不一样的，commit 时注意这些规范 ，会更加提高代码质量,也便于提交的内容更加清晰。
 
-有关 commit 的规范参考如下文档： [约定式提交规范]https://www.conventionalcommits.org/zh-hans/v1.0.0/#%e7%ba%a6%e5%ae%9a%e5%bc%8f%e6%8f%90%e4%ba%a4%e8%a7%84%e8%8c%83
+有关 commit 的规范参考如下文档： [约定式提交规范](https://www.conventionalcommits.org/zh-hans/v1.0.0/#%e7%ba%a6%e5%ae%9a%e5%bc%8f%e6%8f%90%e4%ba%a4%e8%a7%84%e8%8c%83)
