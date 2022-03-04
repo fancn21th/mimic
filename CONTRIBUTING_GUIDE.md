@@ -110,7 +110,7 @@ issue [快速入门](https://docs.github.com/cn/issues/tracking-your-work-with-i
 第一步：到开源项目中创建一个 Issues，issues 内容可以填写你想对项目贡献的内容想法，可以是修复 bug 或新增功能。
 ![image](https://user-images.githubusercontent.com/88175568/156150275-8d082e60-e694-497c-a930-dd6476b2b8de.png)
 
-第二步：首先将当前开源项目 fork 一份到自己的 repo，fork 之后会在自己的 repo 下面出现这个仓库，这相当于是一份镜像（注意不会随着 fork 源的更新而更新）
+第二步：首先将当前开源项目 fork 一份到自己的 repo，fork 之后会在自己的 repo 下面出现这个仓库，这相当于是一份镜像（注意不会随着 fork 源的更新而更新）。
 
 ![image](https://user-images.githubusercontent.com/88175568/156150385-6f210631-f0ab-43f2-94aa-c611302ba140.png)
 
