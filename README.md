@@ -83,7 +83,7 @@ $ npm run start
 
 更多信息参考 【使用文档】
 
-## 🤝 开源贡献
+## 开源贡献
 
 Here’s how we suggest you go about proposing a change to this project:
 
@@ -99,7 +99,7 @@ by automatically forking the project and prompting to send a pull request too.
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
 [pr]: https://help.github.com/articles/using-pull-requests/
 
-翻译：
+中文：
 我们非常欢迎您的贡献，以下是我们建议您对该项目提出更改的建议：
 
 1. [将此项目分叉](https://help.github.com/articles/fork-a-repo/)到您的帐户。
