@@ -25,6 +25,11 @@
 
 </div>
 
+参考文档：
+[antd Design](https://github.com/iczer/vue-antd-admin/blob/master/README.md)
+
+[vue-element-ui](https://panjiachen.github.io/vue-element-admin-site/zh/guide/)
+
 下面可以插入项目的主页截图：
 
 预览地址：https://github.com/fancn21th/mimic
