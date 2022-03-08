@@ -7,9 +7,7 @@
 [![CI status][travis-build]][travis-build-link]
 [![Code Coverage][codecov]][codecov-link]
 [![Downloads][downloads]][downloads-link]
-
 [![Version][versions]][versions-link]
-
 [![NPM][license]][license-link]
 
 [travis-build]: https://img.shields.io/travis/fancn21th/mimic?style=flat-square
@@ -26,23 +24,17 @@
 </div>
 
 参考文档：
-[antd Design](https://github.com/iczer/vue-antd-admin/blob/master/README.md)
+[lodash](https://github.com/lodash/lodash/blob/master/README.md)
 
-[vue-element-ui](https://panjiachen.github.io/vue-element-admin-site/zh/guide/)
+[stack-overflow-coopy-paste](https://github.com/eggheadio-github/stack-overflow-copy-paste)
 
 下面可以插入项目的主页截图：
 
 预览地址：https://github.com/fancn21th/mimic
 
-使用文档：还没创建 （个人感觉创建会更好，后期可以商量决定）
-
-常见问题： 可以再使用文档中列出
-
 ## ✨ 功能清单
 
 在这可以介绍此项目的功能
-
-[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD)
 
 ## 前序准备
 
@@ -80,8 +72,6 @@ $ yarn start
 $ npm install
 $ npm run start
 ```
-
-更多信息参考 【使用文档】
 
 ## 开源贡献
 
