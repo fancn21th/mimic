@@ -24,9 +24,10 @@
 </div>
 
 参考文档：
+
 [lodash](https://github.com/lodash/lodash/blob/master/README.md)
 
-[stack-overflow-coopy-paste](https://github.com/eggheadio-github/stack-overflow-copy-paste)
+[stack-overflow-coopy-paste](https://github.com/eggheadio-github/stack-overflow-copy-paste/blob/master/README.md)
 
 下面可以插入项目的主页截图：
 
@@ -36,19 +37,21 @@
 
 在这可以介绍此项目的功能
 
-## 前序准备
+[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD)
+
+<!-- ## 前序准备
 
 在这儿 可以放 我们为此项目做准备时的学习资料和视频 （相当于宣传公司的资料库）
 
-[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%89%8D%E5%BA%8F%E5%87%86%E5%A4%87)
+[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%89%8D%E5%BA%8F%E5%87%86%E5%A4%87) -->
 
-## 目录结构
+<!-- ## 目录结构
 
 本项目已经为你生成了一个完整的开发框架，提供了涵盖中后台开发的各类功能和坑位，下面是整个项目的目录结构。
 
 下面可以写出整个目录及用处
 
-[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84)
+[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84) -->
 
 ## 使用
 
@@ -72,6 +75,8 @@ $ yarn start
 $ npm install
 $ npm run start
 ```
+
+<!-- 更多信息参考 【使用文档】 -->
 
 ## 开源贡献
 
@@ -99,10 +104,11 @@ by automatically forking the project and prompting to send a pull request too.
 
 使用基于 Web 的界面进行更改也很好，并且会通过自动分叉项目并提示发送拉取请求来帮助您
 
+<!--
 ## 浏览器支持
 
 现代浏览器及 IE10
 
 | [![IE / Edge](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png)](http://godban.github.io/browsers-support-badges/) IE / Edge | [![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png)](http://godban.github.io/browsers-support-badges/) Firefox | [![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png)](http://godban.github.io/browsers-support-badges/) Chrome | [![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)](http://godban.github.io/browsers-support-badges/) Safari | [![Opera](https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png)](http://godban.github.io/browsers-support-badges/) Opera |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| IE10, Edge                                                                                                                                                       | last 2 versions                                                                                                                                                    | last 2 versions                                                                                                                                                | last 2 versions                                                                                                                                                | last 2 versions                                                                                                                                            |
+| IE10, Edge                                                                                                                                                       | last 2 versions                                                                                                                                                    | last 2 versions                                                                                                                                                | last 2 versions                                                                                                                                                | last 2 versions                                                                                                                                            | -->
