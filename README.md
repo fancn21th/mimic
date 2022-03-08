@@ -29,31 +29,15 @@
 
 [stack-overflow-coopy-paste](https://github.com/eggheadio-github/stack-overflow-copy-paste/blob/master/README.md)
 
-下面可以插入项目的主页截图：
+# mimic
 
-预览地址：https://github.com/fancn21th/mimic
+[Contributing](https://github.com/sarwaras/mimic/blob/online/CONTRIBUTING_GUIDE.md) |
+[Wiki](https://github.com/fancn21th/mimic/wiki) |
+[Code of Conduct](https://github.com/fancn21th/mimic/blob/main/CODE_OF_CONDUCT.md) |
 
-## ✨ 功能清单
+## Download
 
-在这可以介绍此项目的功能
-
-[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD)
-
-<!-- ## 前序准备
-
-在这儿 可以放 我们为此项目做准备时的学习资料和视频 （相当于宣传公司的资料库）
-
-[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%89%8D%E5%BA%8F%E5%87%86%E5%A4%87) -->
-
-<!-- ## 目录结构
-
-本项目已经为你生成了一个完整的开发框架，提供了涵盖中后台开发的各类功能和坑位，下面是整个项目的目录结构。
-
-下面可以写出整个目录及用处
-
-[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84) -->
-
-## 使用
+## installation
 
 ### clone
 
@@ -76,11 +60,38 @@ $ npm install
 $ npm run start
 ```
 
+<!--
+下面可以插入项目的主页截图：
+
+预览地址：https://github.com/fancn21th/mimic -->
+<!--
+## ✨ 功能清单
+
+在这可以介绍此项目的功能
+
+[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%8A%9F%E8%83%BD) -->
+
+<!-- ## 前序准备
+
+在这儿 可以放 我们为此项目做准备时的学习资料和视频 （相当于宣传公司的资料库）
+
+[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E5%89%8D%E5%BA%8F%E5%87%86%E5%A4%87) -->
+
+<!-- ## 目录结构
+
+本项目已经为你生成了一个完整的开发框架，提供了涵盖中后台开发的各类功能和坑位，下面是整个项目的目录结构。
+
+下面可以写出整个目录及用处
+
+[参考文档](https://panjiachen.github.io/vue-element-admin-site/zh/guide/#%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84) -->
+
 <!-- 更多信息参考 【使用文档】 -->
+
+## Why Lodash ?
 
 ## 开源贡献
 
-Here’s how we suggest you go about proposing a change to this project:
+<!-- Here’s how we suggest you go about proposing a change to this project:
 
 1. [Fork this project][fork] to your account.
 2. [Create a branch][branch] for the change you intend to make.
@@ -92,9 +103,10 @@ by automatically forking the project and prompting to send a pull request too.
 
 [fork]: https://help.github.com/articles/fork-a-repo/
 [branch]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository
-[pr]: https://help.github.com/articles/using-pull-requests/
+[pr]: https://help.github.com/articles/using-pull-requests/ -->
 
-中文：
+<!-- 中文： -->
+
 我们非常欢迎您的贡献，以下是我们建议您对该项目提出更改的建议：
 
 1. [将此项目分叉](https://help.github.com/articles/fork-a-repo/)到您的帐户。
