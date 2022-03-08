@@ -60,6 +60,21 @@ $ npm install
 $ npm run start
 ```
 
+## Usage
+
+```
+
+import { expect } from "chai";
+import { helloMimic } from "../src";
+
+describe("helloMimic test", function () {
+  it("works!", function () {
+    expect(helloMimic()).to.be.string("hello mimic!");
+  });
+});
+
+```
+
 <!--
 下面可以插入项目的主页截图：
 
