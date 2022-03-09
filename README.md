@@ -104,9 +104,9 @@ describe("helloMimic test", function () {
 
 ## Why Lodash ?
 
-Lodash 减少了使用数组的麻烦，从而简化了 JavaScript，
+Lodash 使 JavaScript 变得更容易，因为它省了处理数组、数字、对象、字符串等的麻烦。
 
-数字、对象、字符串等。Lodash 的模块化方法非常适合：
+Lodash 的模块化方法非常适合：
 
 - 迭代数组、对象和字符串
 
