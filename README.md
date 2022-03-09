@@ -73,17 +73,15 @@ $ npm run start
 
 ## Usage
 
-```
-
-import { expect } from "chai";
-import { helloMimic } from "../src";
+```javascript
+import { expect } from "chai"
+import { helloMimic } from "../src"
 
 describe("helloMimic test", function () {
   it("works!", function () {
-    expect(helloMimic()).to.be.string("hello mimic!");
-  });
-});
-
+    expect(helloMimic()).to.be.string("hello mimic!")
+  })
+})
 ```
 
 <!--
