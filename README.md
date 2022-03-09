@@ -104,6 +104,16 @@ describe("helloMimic test", function () {
 
 ## Why Lodash ?
 
+Lodash 减少了使用数组的麻烦，从而简化了 JavaScript，
+
+数字、对象、字符串等。Lodash 的模块化方法非常适合：
+
+- 迭代数组、对象和字符串
+
+- 操纵和测试值
+
+- 创建复合函数
+
 ## 开源贡献
 
 <!-- Here’s how we suggest you go about proposing a change to this project:
@@ -130,6 +140,8 @@ by automatically forking the project and prompting to send a pull request too.
 4. 从您的 fork 分支向我们的分支[发送拉取请求](https://help.github.com/articles/using-pull-requests/)`main`。
 
 使用基于 Web 的界面进行更改也很好，并且会通过自动分叉项目并提示发送拉取请求来帮助您
+
+如果不知道具体怎么贡献，可以看看[贡献指南](https://github.com/fancn21th/mimic/blob/main/CONTRIBUTING_GUIDE.md)
 
 <!--
 ## 浏览器支持
