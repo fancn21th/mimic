@@ -35,6 +35,8 @@
 [Wiki](https://github.com/fancn21th/mimic/wiki) |
 [Code of Conduct](https://github.com/fancn21th/mimic/blob/main/CODE_OF_CONDUCT.md) |
 
+(在这可以大致介绍一下 mimic 的好处)
+
 ### 使用 mimic
 
 ```
