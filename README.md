@@ -35,6 +35,17 @@
 [Wiki](https://github.com/fancn21th/mimic/wiki) |
 [Code of Conduct](https://github.com/fancn21th/mimic/blob/main/CODE_OF_CONDUCT.md) |
 
+### 使用 mimic
+
+```
+npm install
+
+npm test --watch
+
+npm build
+
+```
+
 ## Download
 
 ## installation
