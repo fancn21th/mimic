@@ -39,7 +39,9 @@
 
 <!-- mimic 是一个企业级前端工具库，暂时以中文为主开发（后期会翻译成其他语言），也欢迎大家使用 mimic 来提升工作效率，也非常欢迎来为 mimic 做出[贡献](https://github.com/fancn21th/mimic/blob/main/CONTRIBUTING_GUIDE.md)哦 -->
 
-### 使用 mimic
+<!-- ### 使用 mimic -->
+
+### How to use it?
 
 ```
 npm install
@@ -127,7 +129,9 @@ Lodash 的模块化方法非常适合：
 
 - 创建复合函数
 
-## 开源贡献
+<!-- ## 开源贡献 -->
+
+## Contribution
 
 <!-- Here’s how we suggest you go about proposing a change to this project:
 
