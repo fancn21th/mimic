@@ -91,14 +91,27 @@ mimic 团队会关注所有的 pull request，我们会 review 以及合并你�
 
 ### Issues
 
-所有对一个项目贡献的想法都是从一个 issues 开始。
+所有对一个项目贡献的想法都是从一个 issue 开始。
+
+要点：
+
+- 请大家提 issue 的时候特别注意 issue 的语法格式 。重要的是，你提 issue 的时候注意语言表达，尽量用关键字来表达 issue 内容，要让大家明白你提的 issue 是什么。
+
+- 为议题提供一个描述性标题。 标题应一目了然地传达议题的内容。
+
+- 添加解释问题目的之说明，包括任何可能有助于解决问题的详细信息。 例如，如果这是漏洞报告，请描述重现漏洞的步骤、预期结果和实际结果。
+
+- 您可以使用 Markdown 添加格式、链接、表情等内容。 更多信息请参阅“[在 GitHub 上编写](https://docs.github.com/cn/get-started/writing-on-github)”。
+
+issue [快速入门](https://docs.github.com/cn/issues/tracking-your-work-with-issues/quickstart)
 
 例如我现在需要给项目提供一个对`tree`数据结构的处理的新功能，那么比较简洁的做法如下：
 
 第一步：到开源项目中创建一个 Issues，issues 内容可以填写你想对项目贡献的内容想法，可以是修复 bug 或新增功能。
 ![image](https://user-images.githubusercontent.com/88175568/156150275-8d082e60-e694-497c-a930-dd6476b2b8de.png)
 
-第二步：首先将当前开源项目 fork 一份到自己的 repo，fork 之后会在自己的 repo 下面出现这个仓库，这相当于是一份镜像（注意不会随着 fork 源的更新而更新）
+第二步：首先将当前开源项目 fork 一份到自己的 repo，fork 之后会在自己的 repo 下面出现这个仓库，这相当于是一份镜像（注意不会随着 fork 源的更新而更新）。
+
 ![image](https://user-images.githubusercontent.com/88175568/156150385-6f210631-f0ab-43f2-94aa-c611302ba140.png)
 
 第三步：将 fork 的 repo clone 到本地，修改代码后 push 到 fork 的 repo 里面，设置 upstream 就是你 fork 的开源地址
@@ -141,3 +154,9 @@ git push origin <topic-branch-name>
 ```
 
 第七步：[Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description
+
+### Commit
+
+[commit](https://www.conventionalcommits.org/zh-hans/v1.0.0/#%e7%ba%a6%e5%ae%9a%e5%bc%8f%e6%8f%90%e4%ba%a4%e8%a7%84%e8%8c%83) 的时候也要注意提交规范：commit 也是很重要的一个步骤，而且 修改 BUG 、新需求 等的 commit 前缀都是不一样的，commit 时注意这些规范 ，会更加提高代码质量,也便于提交的内容更加清晰。
+
+有关 commit 的规范参考如下文档： [约定式提交规范](https://www.conventionalcommits.org/zh-hans/v1.0.0/#%e7%ba%a6%e5%ae%9a%e5%bc%8f%e6%8f%90%e4%ba%a4%e8%a7%84%e8%8c%83)
